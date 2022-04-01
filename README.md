@@ -23,9 +23,10 @@ Check out [API LIVE DEMO](https://backend-hunger-captian.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/arochey2566/HC.git
+1. Git Clone 
 
 ```
+https://github.com/arochey2566/HC.git
 ```
 
 2. Backend setting
