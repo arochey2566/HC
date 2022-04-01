@@ -11,6 +11,9 @@ Check out [FRONTEND LIVE DEMO](https://frontend-hunger-captian.herokuapp.com/) h
 
 Check out [API LIVE DEMO](https://backend-hunger-captian.herokuapp.com/) here!!
 
+
+![](https://user-images.githubusercontent.com/95597913/161193027-d5a859ce-90d9-4c46-b8c7-2b1226c99833.png)
+
 ## Tech used
 
 ```
@@ -20,7 +23,7 @@ Check out [API LIVE DEMO](https://backend-hunger-captian.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/krishnakishor13/Cybershop-sd.git
+1. Git Clone https://github.com/arochey2566/HC.git
 
 ```
 ```
